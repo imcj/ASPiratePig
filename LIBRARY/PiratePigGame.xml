@@ -1,0 +1,332 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PiratePigGame" itemID="533f9eaf-000000d1" linkageExportForAS="true" linkageClassName="PiratePigGame" lastModified="1396678319">
+  <timeline>
+    <DOMTimeline name="PiratePigGame">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="jewels/game_bear.png">
+                  <matrix>
+                    <Matrix tx="276"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png">
+                  <matrix>
+                    <Matrix tx="483"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_carrot.png">
+                  <matrix>
+                    <Matrix tx="207"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_lemon.png">
+                  <matrix>
+                    <Matrix tx="138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="69"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png"/>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="345"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="414"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bear.png">
+                  <matrix>
+                    <Matrix tx="276" ty="69"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png">
+                  <matrix>
+                    <Matrix tx="483" ty="69"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_carrot.png">
+                  <matrix>
+                    <Matrix tx="207" ty="69"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_lemon.png">
+                  <matrix>
+                    <Matrix tx="138" ty="69"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="69" ty="69"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix ty="69"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="345" ty="69"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="414" ty="69"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bear.png">
+                  <matrix>
+                    <Matrix tx="276.95" ty="138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png">
+                  <matrix>
+                    <Matrix tx="483.95" ty="138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_carrot.png">
+                  <matrix>
+                    <Matrix tx="207.95" ty="138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_lemon.png">
+                  <matrix>
+                    <Matrix tx="138.95" ty="138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="69.95" ty="138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="0.95" ty="138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="345.95" ty="138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="414.95" ty="138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bear.png">
+                  <matrix>
+                    <Matrix tx="276.95" ty="207"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png">
+                  <matrix>
+                    <Matrix tx="483.95" ty="207"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_carrot.png">
+                  <matrix>
+                    <Matrix tx="207.95" ty="207"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_lemon.png">
+                  <matrix>
+                    <Matrix tx="138.95" ty="207"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="69.95" ty="207"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="0.95" ty="207"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="345.95" ty="207"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="414.95" ty="207"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bear.png">
+                  <matrix>
+                    <Matrix tx="276.95" ty="276"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png">
+                  <matrix>
+                    <Matrix tx="483.95" ty="276"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_carrot.png">
+                  <matrix>
+                    <Matrix tx="207.95" ty="276"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_lemon.png">
+                  <matrix>
+                    <Matrix tx="138.95" ty="276"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="69.95" ty="276"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="0.95" ty="276"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="345.95" ty="276"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="414.95" ty="276"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bear.png">
+                  <matrix>
+                    <Matrix tx="276.95" ty="345"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png">
+                  <matrix>
+                    <Matrix tx="483.95" ty="345"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_carrot.png">
+                  <matrix>
+                    <Matrix tx="207.95" ty="345"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_lemon.png">
+                  <matrix>
+                    <Matrix tx="138.95" ty="345"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="69.95" ty="345"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="0.95" ty="345"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="345.95" ty="345"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="414.95" ty="345"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bear.png">
+                  <matrix>
+                    <Matrix tx="276.95" ty="414"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png">
+                  <matrix>
+                    <Matrix tx="483.95" ty="414"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_carrot.png">
+                  <matrix>
+                    <Matrix tx="207.95" ty="414"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_lemon.png">
+                  <matrix>
+                    <Matrix tx="138.95" ty="414"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="69.95" ty="414"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="0.95" ty="414"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="345.95" ty="414"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="414.95" ty="414"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bear.png">
+                  <matrix>
+                    <Matrix tx="276.95" ty="483"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png">
+                  <matrix>
+                    <Matrix tx="483.95" ty="483"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_carrot.png">
+                  <matrix>
+                    <Matrix tx="207.95" ty="483"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_lemon.png">
+                  <matrix>
+                    <Matrix tx="138.95" ty="483"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="69.95" ty="483"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="0.95" ty="483"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png">
+                  <matrix>
+                    <Matrix tx="345.95" ty="483"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="jewels/game_panda.png">
+                  <matrix>
+                    <Matrix tx="414.95" ty="483"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

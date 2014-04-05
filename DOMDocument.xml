@@ -1,0 +1,184 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="640" height="960" frameRate="60" currentTimeline="1" xflVersion="2.3" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 13.0 build 759" majorVersion="13" buildNumber="759" timelineLabelWidth="179" viewAngle3D="62.4108334222142" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <folders>
+          <DOMFolderItem name="fonts" itemID="533e60fc-00000239" isExpanded="true"/>
+          <DOMFolderItem name="jewels" itemID="533e6309-00000267" isExpanded="true"/>
+          <DOMFolderItem name="sounds" itemID="533e60b5-00000213" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="fonts/Freebooter" itemID="533e61c5-00000241" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="Freebooter" font="Freebooter" size="0" id="1" sourceLastImported="1396597276" embedRanges="9999"/>
+     </fonts>
+     <media>
+          <DOMSoundItem name="sounds/3.wav" itemID="533e6166-0000023b" linkageExportForAS="true" linkageClassName="Sound3" sourceLastImported="1395913378" externalFileSize="14432" href="sounds/3.wav" soundDataHRef="M 10 1396596936.dat" format="44kHz 16bit Stereo" sampleCount="3597" dataLength="14388"/>
+          <DOMSoundItem name="sounds/4.wav" itemID="533e6166-0000023c" linkageExportForAS="true" linkageClassName="Sound4" sourceLastImported="1395913378" externalFileSize="135984" href="sounds/4.wav" soundDataHRef="M 11 1396596937.dat" format="44kHz 16bit Stereo" sampleCount="33985" dataLength="135940"/>
+          <DOMSoundItem name="sounds/5.wav" itemID="533e6166-0000023d" linkageExportForAS="true" linkageClassName="Sound5" sourceLastImported="1395913378" externalFileSize="441044" href="sounds/5.wav" soundDataHRef="M 12 1396596938.dat" format="44kHz 16bit Mono" sampleCount="220500" dataLength="441000"/>
+          <DOMBitmapItem name="background_tile.png" itemID="533e60a4-00000207" sourceLastImported="1395913378" externalFileSize="16510" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="background_tile.png" bitmapDataHRef="M 9 1396596445.dat" frameRight="2000" frameBottom="16960"/>
+          <DOMBitmapItem name="Bitmap 1" itemID="533e77bb-000001cc" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1396602811" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1.png" bitmapDataHRef="M 16 1396602811.dat" frameRight="1120" frameBottom="1120"/>
+          <DOMBitmapItem name="center_bottom.png" itemID="533e60a4-00000208" sourceLastImported="1395913378" externalFileSize="157449" originalCompressionType="lossless" quality="50" href="center_bottom.png" bitmapDataHRef="M 1 1396596444.dat" frameRight="20340" frameBottom="4480"/>
+          <DOMBitmapItem name="jewels/game_bear.png" itemID="533e645d-000002da" sourceLastImported="1396598941" externalFileSize="1249" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jewels/game_bear.png" bitmapDataHRef="M 2 1396596444.dat" frameRight="1120" frameBottom="1120"/>
+          <DOMBitmapItem name="jewels/game_bunny_02.png" itemID="533e645d-000002db" sourceLastImported="1396598941" externalFileSize="1062" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jewels/game_bunny_02.png" bitmapDataHRef="M 3 1396596444.dat" frameRight="1120" frameBottom="1120"/>
+          <DOMBitmapItem name="jewels/game_carrot.png" itemID="533e645d-000002dc" sourceLastImported="1396598941" externalFileCRC32="2429713478" externalFileSize="1310" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jewels/game_carrot.png" bitmapDataHRef="M 4 1396596444.dat" frameRight="1120" frameBottom="1120"/>
+          <DOMBitmapItem name="jewels/game_lemon.png" itemID="533e645d-000002dd" sourceLastImported="1396598941" externalFileCRC32="664589618" externalFileSize="1499" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jewels/game_lemon.png" bitmapDataHRef="M 5 1396596444.dat" frameRight="1120" frameBottom="1120"/>
+          <DOMBitmapItem name="jewels/game_panda.png" itemID="533e645d-000002de" sourceLastImported="1396598941" externalFileCRC32="3075166326" externalFileSize="969" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jewels/game_panda.png" bitmapDataHRef="M 6 1396596444.dat" frameRight="1120" frameBottom="1120"/>
+          <DOMBitmapItem name="jewels/game_piratePig.png" itemID="533e645d-000002df" sourceLastImported="1396598941" externalFileCRC32="718380820" externalFileSize="1737" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jewels/game_piratePig.png" bitmapDataHRef="M 7 1396596444.dat" frameRight="1120" frameBottom="1120"/>
+          <DOMBitmapItem name="logo.png" itemID="533e60a4-0000020f" sourceLastImported="1395913378" externalFileSize="19199" originalCompressionType="lossless" quality="50" href="logo.png" bitmapDataHRef="M 8 1396596445.dat" frameRight="5760" frameBottom="1500"/>
+          <DOMSoundItem name="sounds/theme.wav" itemID="533e6166-0000023e" linkageExportForAS="true" linkageClassName="SoundTheme" sourceLastImported="1395913378" externalFileSize="1764044" href="sounds/theme.wav" soundDataHRef="M 13 1396596938.dat" format="44kHz 16bit Stereo" sampleCount="441000" dataLength="1764000"/>
+          <DOMSoundItem name="sounds/whiff.wav" itemID="533e6166-0000023f" linkageExportForAS="true" linkageClassName="SoundWhiff" sourceLastImported="1395913378" externalFileSize="491080" href="sounds/whiff.wav" soundDataHRef="M 14 1396596938.dat" format="44kHz 16bit Stereo" sampleCount="122759" dataLength="491036"/>
+     </media>
+     <symbols>
+          <Include href="GameBackground.xml" itemIcon="1" loadImmediate="false" itemID="533e7444-000001a4" lastModified="1396601924"/>
+          <Include href="jewels/Bear.xml" itemID="533f9818-00000042" lastModified="1396698014"/>
+          <Include href="jewels/Bunny.xml" itemID="533e7a21-0000021a" lastModified="1396698225"/>
+          <Include href="jewels/Carrot.xml" itemID="533f98a3-00000058" lastModified="1396698217"/>
+          <Include href="jewels/GameBear.xml" loadImmediate="false" itemID="533e7835-000001de" lastModified="1396604278"/>
+          <Include href="jewels/GameBunny.xml" loadImmediate="false" itemID="533e7a75-00000228" lastModified="1396677142"/>
+          <Include href="jewels/GameCarrot.xml" loadImmediate="false" itemID="533f987f-0000004d" lastModified="1396676742"/>
+          <Include href="jewels/GameLemon.xml" loadImmediate="false" itemID="533f9936-0000007f" lastModified="1396676922"/>
+          <Include href="jewels/GamePanda.xml" loadImmediate="false" itemID="533f98df-00000064" lastModified="1396676837"/>
+          <Include href="jewels/GamePiratePig.xml" loadImmediate="false" itemID="533f998b-0000009b" lastModified="1396677007"/>
+          <Include href="jewels/Lemon.xml" itemID="533f9947-00000089" lastModified="1396698208"/>
+          <Include href="jewels/Panda.xml" itemID="533f98ef-0000006e" lastModified="1396698199"/>
+          <Include href="jewels/PiratePig.xml" itemID="533f999d-000000a5" lastModified="1396698192"/>
+          <Include href="logo.xml" loadImmediate="false" itemID="533e6b6a-00000196" lastModified="1396599658"/>
+          <Include href="PiratePigGame.xml" itemID="533f9eaf-000000d1" lastModified="1396678319"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="34">
+               <layers>
+                    <DOMLayer name="Layer 5" color="#4FFFFF">
+                         <frames>
+                              <DOMFrame index="0" duration="35" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="center_bottom.png">
+                                             <matrix>
+                                                  <Matrix tx="-197" ty="736"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#FF4FFF" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="35" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="60000" Version="1" duration="35000"><TimeMap strength="100" type="Quadratic"/><metadata><names><name langID="en_GB" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property TimeMapIndex="0" enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-602" next="0,-602" previous="0,-602" roving="0" timevalue="34000"/></Property><Property TimeMapIndex="0" enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="34000"/></Property><Property TimeMapIndex="0" enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property TimeMapIndex="0" enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property TimeMapIndex="0" enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property TimeMapIndex="0" enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property TimeMapIndex="0" enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="logo" centerPoint3DX="785" centerPoint3DY="51.5">
+                                             <matrix>
+                                                  <Matrix tx="641" ty="14"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="144" y="37.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="34" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_bear.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_carrot.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_lemon.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_panda.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png"/>
+                                        <DOMBitmapInstance libraryItemName="background_tile.png">
+                                             <matrix>
+                                                  <Matrix a="6.39999389648438" d="1.132080078125"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="34" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+// jewels.removeChildAt(0);]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_bear.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_bunny_02.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_carrot.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_lemon.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_panda.png"/>
+                                        <DOMBitmapInstance libraryItemName="jewels/game_piratePig.png"/>
+                                        <DOMBitmapInstance libraryItemName="background_tile.png">
+                                             <matrix>
+                                                  <Matrix a="6.39999389648438" d="1.132080078125"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText name="score" width="108.8" height="100" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="500.55" ty="32"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>0</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="60" bitmapSize="1200" face="Freebooter*"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="GameBackground" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="50" ty="166"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="276" y="276"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="PiratePigGame" name="jewels" selected="true" centerPoint3DX="218" centerPoint3DY="194">
+                                             <matrix>
+                                                  <Matrix tx="50" ty="166"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="168" y="28"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="com.air.ipa.sampler" v="false"/>
+          <PD n="com.air.artemis.ipadest" v="ASPiratePig.ipa"/>
+          <PD n="CreateJSToolkit_data" v="version&#xA;0.1&#xA;exportImages&#xA;true&#xA;libNS&#xA;lib&#xA;includeHiddenLayers&#xA;true&#xA;imagesPath&#xA;images/&#xA;preview&#xA;true&#xA;frameBounds&#xA;false&#xA;exportLibs&#xA;true&#xA;imagesNS&#xA;images&#xA;exportSounds&#xA;true&#xA;libraryPath&#xA;libs/&#xA;createjsNS&#xA;createjs&#xA;compactPaths&#xA;true&#xA;exportHTML&#xA;true&#xA;soundsPath&#xA;sounds/&#xA;outputPath&#xA;./&#xA;hostedLibs&#xA;true"/>
+          <PD n="com.air.artemis.ipaopt" v="test"/>
+          <PD n="com.air.artemis.swfdir" v="/Users/cj/Downloads/"/>
+          <PD n="com.air.artemis.included.count" v="0"/>
+          <PD n="ane.tmp.unzipped.folder" v="/Users/cj/Library/Caches/TemporaryItems/Tmp_ANE_File_Unzipped_Packages"/>
+          <PD n="com.air.sdk.path"/>
+          <PD n="com.air.artemis.pubipa" v="true"/>
+          <PD n="com.air.artemis.hostip" v="Default"/>
+          <PD n="com.air.artemis.basename" v="ASPiratePig"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="202872" publishTime="1396702612"/>
+          <PublishItem publishSize="202887" publishTime="1396702536"/>
+          <PublishItem publishSize="202888" publishTime="1396702332"/>
+          <PublishItem publishSize="202877" publishTime="1396701304"/>
+          <PublishItem publishSize="202879" publishTime="1396701148"/>
+          <PublishItem publishSize="202941" publishTime="1396701116"/>
+          <PublishItem publishSize="191974" publishTime="1396701104"/>
+          <PublishItem publishSize="191974" publishTime="1396701094"/>
+          <PublishItem publishSize="191974" publishTime="1396701078"/>
+          <PublishItem publishSize="191974" publishTime="1396701060"/>
+          <PublishItem publishSize="191974" publishTime="1396701008"/>
+          <PublishItem publishSize="202959" publishTime="1396700904"/>
+          <PublishItem publishSize="202945" publishTime="1396700870"/>
+          <PublishItem publishSize="191976" publishTime="1396700858"/>
+          <PublishItem publishSize="166849" publishTime="1396700682"/>
+          <PublishItem publishSize="156216" publishTime="1396700664"/>
+          <PublishItem publishSize="155772" publishTime="1396700552"/>
+          <PublishItem publishSize="155772" publishTime="1396700534"/>
+          <PublishItem publishSize="166281" publishTime="1396700198"/>
+          <PublishItem publishSize="155772" publishTime="1396700112"/>
+     </publishHistory>
+</DOMDocument>
